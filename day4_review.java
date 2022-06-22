@@ -3,7 +3,6 @@ package koreait.day04;
 import java.util.Scanner;
 
 public class C18_ReviewEx {
-	// ÀÛ¼ºÀÚ : °û½ÂÇö
 	public static void main(String[] args) {
 		
 		int korean, english, science, sum;
