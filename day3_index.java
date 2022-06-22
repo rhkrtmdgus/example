@@ -3,7 +3,7 @@ package koreait.day04;
 public class C20_StringMethod {
 
 	public static void main(String[] args) {
-		
+		// 업데이트 확인
 		String message = "gmail.com";
 //		message.length();
 //		message.charAt(0);
