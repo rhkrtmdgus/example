@@ -2,7 +2,7 @@ package koreait.day04;
 
 
 public class C17_StringTest {
-
+	// 잘 되고 있나요?
 	public static void main(String[] args) {
 		
 		
